@@ -1,8 +1,6 @@
 ### Hi there, I'm Murali👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiammurali&screen_name=muralielumalai1)
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## Your Friendly neighbourhood developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with my startup vision
