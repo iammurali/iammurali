@@ -8,6 +8,12 @@
 - ⚡ Fun fact: I love to play keyboard
 - 🥅 Currently working on a project named goaly
 
+
+
+In search for contributors to my project idea,
+
+Send an email to: muralismail4u@gmail.com
+
 ---
 
 ## Github status
