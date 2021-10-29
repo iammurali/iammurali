@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with my startup vision
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play keyboard
-- 🥅 Currently working on a project named goaly
+- 🥅 Currently working landing page generator
 
 
 
