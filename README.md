@@ -2,7 +2,7 @@
 
 ## Your Friendly neighbourhood developer!!
 
-- 🌱 I’m currently learning Golang 🤣
+- 🌱 I’m currently learning Golang 
 - 👯 I’m looking to collaborate with my startup vision
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play keyboard
