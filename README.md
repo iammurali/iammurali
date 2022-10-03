@@ -24,3 +24,5 @@ Send an email to: muralismail4u@gmail.com
 [instagram]: https://instagram.com/i.m_murali
 [linkedin]: https://linkedin.com/in/murali-elumalai-720b71bb
 
+## Recent blog posts
+[how-i-build-a-no-code-static-website-builder]https://medium.com/@muralismail4u/how-i-build-a-no-code-static-website-builder-snugl-open-source-aa5c940a7215
