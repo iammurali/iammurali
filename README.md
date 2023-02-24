@@ -1,14 +1,13 @@
 ### Hi there, I'm Murali👋
 
 ## Your Friendly neighbourhood developer!!
-
-- 🌱 I’m currently learning Golang 
+- I primarily use typescript for web (Next.js, Vue, Express) and flutter for mobile
+- 🌱 I’m currently learning Serverless and Stable Diffusion
 - 👯 I’m looking to collaborate with my startup vision
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play keyboard
-- 🥅 Currently working landing page generator
 
-
+# Technologies: Typescript, Graphql, Next.js, Flutter
 
 In search for contributors to my project idea
 
