@@ -10,8 +10,11 @@
 
 
 
-In search for contributors to my project idea,
+In search for contributors to my project idea
 
+Want help on your project
+
+Telegram: @zeropanda
 Send an email to: muralismail4u@gmail.com
 
 ---
