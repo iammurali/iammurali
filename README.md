@@ -11,9 +11,7 @@
 
 In search for contributors to my project idea
 
-Want help on your project
-
-[My website]: https://muralielumalai.com
+Want help on your project 
 
 Telegram: @zeropanda
 
