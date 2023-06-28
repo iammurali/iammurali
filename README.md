@@ -7,7 +7,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play keyboard
 
-## Technologies: Typescript, Graphql, Next.js, Flutter
+## Technologies: Typescript, Next.js, Flutter, Golang
 
 In search for contributors to my project idea
 
