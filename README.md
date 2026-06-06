@@ -4,7 +4,7 @@
 - I primarily use typescript for web (Next.js, Vue, Express) and flutter for mobile
 - 🌱 I’m currently learning Serverless and Stable Diffusion
 - 👯 I’m looking to collaborate with my startup vision
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play keyboard
 
 ## My Portfolio
